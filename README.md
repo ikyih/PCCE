@@ -42,6 +42,9 @@ If you are considering donation please keep in mind that the donation doesn't ge
 
 @NoFearGG for dumping the item IDs and providing GameGuardian guide.
 
+@DarkCraft for save file serialization and deserialization reference.
+https://github.com/RealDarkCraft/Animal-Crossing-Pocket-Camp-Complete-Save-UnPacker/
+
 And everyone who has submitted their save file for research purposes.
 
 Please let me know if I miss your name here.
