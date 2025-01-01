@@ -31,7 +31,7 @@ A Save editor for AC:PCC
 
    6. Transfer your save file back to your device/emulator 
 
-## Donataion
+## Donation
 
 If you are considering donation please keep in mind that the donation doesn't get you anything other than my love. 
 * https://ko-fi.com/myshilingstar
