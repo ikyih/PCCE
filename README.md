@@ -6,13 +6,20 @@ A Save editor for AC:PCC
 ![image](https://github.com/user-attachments/assets/5ecf78e7-43b0-47e5-9d6f-66b96f2bbb96)
 
 ## Installation
-
+### Windows
    1. Download and unzip the latest release of PCCE
 
    2. Run "PCCE.exe"
     
    3. Install the .NET 9.0 Runtime if needed
+      
+### Android
+   1. Download the APK file for your device's architectures.
+      
+   2. Go to Settings and allow install applications from unknown sources.
 
+   3. Install the APK file
+      
 ## Usage
 
    1. Acquire your save file
