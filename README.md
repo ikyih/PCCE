@@ -52,7 +52,9 @@ If you are considering donation please keep in mind that the donation doesn't ge
 
 ## Special Thanks
 
-@Thulinma for the original save decryption code.
+@Thulinma for the original save decryption code and reverse engineering.
+
+@marengg for the help in reverse engineering.
 
 @NoFearGG for dumping the item IDs and providing GameGuardian guide.
 
