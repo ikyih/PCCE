@@ -36,7 +36,13 @@ A Save editor for AC:PCC
 
    5. Save the edited save file by clicking the "Save" Button
 
-   6. Transfer your save file back to your device/emulator 
+   6. Transfer your save file back to your device/emulator
+
+## Need more help?
+
+You can reach me here: https://discord.gg/zeXPVwPb8Q under the `acpc-modding` channel.
+
+Do note that I do not own the Discord server. Please make sure you follow any rules set by the mods and owners.
 
 ## Donation
 
@@ -53,6 +59,10 @@ If you are considering donation please keep in mind that the donation doesn't ge
 @DarkCraft for save file serialization and deserialization reference.
 
 https://github.com/RealDarkCraft/Animal-Crossing-Pocket-Camp-Complete-Save-UnPacker/
+
+@KLUTCH & @Inconsistent for their discord servers and channels for easier communication.
+
+@Katsching and all the mods for handling all the Discord moderation.
 
 And everyone who has submitted their save file for research purposes.
 
