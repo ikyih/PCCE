@@ -62,7 +62,7 @@ https://github.com/RealDarkCraft/Animal-Crossing-Pocket-Camp-Complete-Save-UnPac
 
 @KLUTCH & @Inconsistent for their discord servers and channels for easier communication.
 
-@Katsching and all the mods for handling all the Discord moderation.
+@Katsching and all of the mods for handling all the Discord moderation.
 
 And everyone who has submitted their save file for research purposes.
 
