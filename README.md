@@ -25,7 +25,7 @@ A Save editor for AC:PCC
 
    1. Acquire your save file
 
-      Android location: `android/data/com.nintendo.zasa/files` (Might be hidden and require tools to access)
+      Android location: `Android/data/com.nintendo.zasa/files` (Might be hidden and require tools to access)
       
       iOS location: `private/var/mobile/Containers/Data/Application/Pocket Camp C/Documents` (Require Jailbreak)
 
